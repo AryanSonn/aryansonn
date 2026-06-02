@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Electrical and Electronic engineering student at the University of Bristol.
+Currently trying to make fun and interesting projects catered to students to help build confidence and knowledge in real-world engineering.
+Plenty of range from Arduino to PCB's to CAD and much more.
+Helping aspiring engineers not let AI take their jobs 😎.
 <!--
 **AryanSonn/aryansonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
